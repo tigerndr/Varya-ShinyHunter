@@ -30,5 +30,8 @@ hunt/inst*/SHINY_FOUND
 hunt/inst*/hunt_status.txt
 hunt/inst*/pid_log.txt
 hunt/inst*/shiny_*.png
+hunt/inst*/FireRed.gba
+hunt/inst*/mgba.log
+hunt/inst*/xdg/
 # Baked per-lane scripts are generated locally
 hunt/inst*/hunt.lua
